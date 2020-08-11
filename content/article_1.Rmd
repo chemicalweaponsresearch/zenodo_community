@@ -1,0 +1,50 @@
+---
+title: "Open Letter to Halt Use of Chemical Weapons"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+---
+
+<br>
+
+Dear American Elected Officials,
+
+We, the undersigned memebers of the scientific community, request that you leverage any and all possible avenues to ***halt current and future use of chemical weapons*** against all civilians.
+
+The use of chemical weapons (for example, pepper spray, tear gas, munition-based smoke) constitutes an indiscriminate application of toxic materials to a non-consenting population and the environment with short and long-term consequences. 
+
+By their very nature, chemical weapons are designed to [interact](https://en.wikipedia.org/wiki/Chemical_reaction) with components of their environment.
+Disbursement of these fundamentally reactive compounds into the environment without remediation constitutes [illegal disposal of hazardous under the Environmental Protection Act](https://www.epa.gov/hw/learn-basics-hazardous-waste).
+
+These compounds significantly impact [human health and well-being in the short and long-term](https://www.dontshootpdx.org/riot-control-agents-report/).
+Chemical weaponry is imprecise and impacts non-target individuals and organisms with the same force as targets.
+First-hand experiences indicate that such weapons are often used without regard to explicit dibursement instructions, such as "only use outdoors".
+Presently, however, law enforcement is allowed to use chemical weapons against civilians without consequence.
+Further, private industry is allowed to [manufacture munitions](https://www.defense-technology.com/product/maximum-smoke-hc-large-style-canister/) for law enforcement using toxins including probable human carcinogens and tp provide incomplete documentation of components and risks.
+Given the obfuscation of components and their reactivity, recipients of the impact of chemical weapons are not able to readily obtain information about their identity or condition, and instead are forced to first identify the chemicals and then determine their consequences.
+
+Leveraging of this loophole as a tactical approach to "quell" protesters amounts to chemical experimentation on humans and an act of terrorism by the state against its people, given that the recipient population (including bystanders) is not able to determine fundamentally how it is impacted by the munitions. 
+
+***As professionals who hold basic [ethical standards for the use of human subjects in experimental trials](https://www.fda.gov/patients/clinical-trials-what-patients-need-know/informed-consent-clinical-trials), we insist that you do as well.***
+
+We specifically demand the following:
+
+1. A complete moratorium on chemical weapons applied to humans in the United States. 
+2. The legal default being set such that a chemical is not to be used and evidence must be provided of its safety.
+3. Potential chemical weapons must undergo the same review as chemicals involved in [agricultural applications](https://www.fda.gov/food/chemicals-metals-pesticides-food/chemicals).
+4. They must also undergo a further review to specifically address use *against* humans.
+
+These actions will help save human lives, reduce negative impacts on the environment, and counter-act fascism.
+
+<br>
+
+With best regards,
+
+
+Dr. Juniper L. Simonis, they/them, [DAPPER Stats](https://www.dapperstats.com) Founder & Lead Scientist
+
+<br>
+<br>
+
+[Add your name](https://forms.gle/U2h1rZFdPxouW4SFA) to the list of signatories.
+
+Note: Right now, I'm updating the list by hand, working on the automation as my hands allow! 
+(The federal agents who kidnapped me messed up my hands so bad I can only computer for an hour or so a day!)

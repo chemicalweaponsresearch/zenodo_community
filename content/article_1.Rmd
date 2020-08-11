@@ -7,7 +7,7 @@ date: "`r format(Sys.time(), '%B %d, %Y')`"
 
 Dear American Elected Officials,
 
-We, the undersigned memebers of the scientific community, request that you leverage any and all possible avenues to ***halt current and future use of chemical weapons*** against all civilians.
+We, the undersigned members of the scientific community, request that you leverage any and all possible avenues to ***halt current and future use of chemical weapons*** against all civilians.
 
 The use of chemical weapons (for example, pepper spray, tear gas, munition-based smoke) constitutes an indiscriminate application of toxic materials to a non-consenting population and the environment with short and long-term consequences. 
 
@@ -16,7 +16,7 @@ Disbursement of these fundamentally reactive compounds into the environment with
 
 These compounds significantly impact [human health and well-being in the short and long-term](https://www.dontshootpdx.org/riot-control-agents-report/).
 Chemical weaponry is imprecise and impacts non-target individuals and organisms with the same force as targets.
-First-hand experiences indicate that such weapons are often used without regard to explicit dibursement instructions, such as "only use outdoors".
+First-hand experiences indicate that such weapons are often used without regard to explicit disbursement requirements, such as "only use outdoors".
 Presently, however, law enforcement is allowed to use chemical weapons against civilians without consequence.
 Further, private industry is allowed to [manufacture munitions](https://www.defense-technology.com/product/maximum-smoke-hc-large-style-canister/) for law enforcement using toxins including probable human carcinogens and tp provide incomplete documentation of components and risks.
 Given the obfuscation of components and their reactivity, recipients of the impact of chemical weapons are not able to readily obtain information about their identity or condition, and instead are forced to first identify the chemicals and then determine their consequences.
